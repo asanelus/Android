@@ -1,2 +1,3 @@
 # Android
-My Android Projects
+Sample of application code for Android
+
